@@ -1,0 +1,4 @@
+WomenInStem
+npm init
+npm install
+npm install react react-dom --save
