@@ -3,18 +3,16 @@ import Footer from "../parts/Footer";
 import Navbar from "../parts/Navbar";
 import About from "../parts/About";
 import WhatWedo from "../parts/WhatWeDo";
-import Join from "../parts/Join";
 import JoinSociety from "../parts/JoinSociety";
-import Header from "../parts/Header";
+import HomeHead from "../parts/HomeHead";
 
 const Home = () => {
   return (
     <>
       <Navbar />
-      <Header />
+      <HomeHead />
       <About />
       <WhatWedo />
-      <Join />
       <JoinSociety />
       <Footer />
     </>

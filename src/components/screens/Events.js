@@ -1,16 +1,15 @@
 import React from "react";
 import Footer from "../parts/Footer";
 import Navbar from "../parts/Navbar";
+import Event from "../parts/Event";
+import EventHead from "../parts/EventHead";
 
 const Events = () => {
   return (
     <>
       <Navbar />
-      <section className="page-section bg-primary mb-0" id="steps">
-      <div>
-        <h3 className="text-center mt-4">No content so far</h3>
-      </div>
-    </section>
+      <EventHead/>
+      <Event />
       <Footer />
     </>
   );
