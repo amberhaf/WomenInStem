@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.8de34471.chunk.js",
-    "main.js.map": "/static/js/main.8de34471.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
-    "static/js/2.2a9291ac.chunk.js": "/static/js/2.2a9291ac.chunk.js",
-    "static/js/2.2a9291ac.chunk.js.map": "/static/js/2.2a9291ac.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.831117f21f037c69d9ad7f90aca1051c.js": "/precache-manifest.831117f21f037c69d9ad7f90aca1051c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.2a9291ac.chunk.js.LICENSE.txt": "/static/js/2.2a9291ac.chunk.js.LICENSE.txt"
+    "main.js": "/WomenInStem/static/js/main.9454b48d.chunk.js",
+    "main.js.map": "/WomenInStem/static/js/main.9454b48d.chunk.js.map",
+    "runtime-main.js": "/WomenInStem/static/js/runtime-main.47453423.js",
+    "runtime-main.js.map": "/WomenInStem/static/js/runtime-main.47453423.js.map",
+    "static/js/2.2a9291ac.chunk.js": "/WomenInStem/static/js/2.2a9291ac.chunk.js",
+    "static/js/2.2a9291ac.chunk.js.map": "/WomenInStem/static/js/2.2a9291ac.chunk.js.map",
+    "index.html": "/WomenInStem/index.html",
+    "precache-manifest.6b497b0b2f8262bd442651f1d57df9be.js": "/WomenInStem/precache-manifest.6b497b0b2f8262bd442651f1d57df9be.js",
+    "service-worker.js": "/WomenInStem/service-worker.js",
+    "static/js/2.2a9291ac.chunk.js.LICENSE.txt": "/WomenInStem/static/js/2.2a9291ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.09b85ec0.js",
+    "static/js/runtime-main.47453423.js",
     "static/js/2.2a9291ac.chunk.js",
-    "static/js/main.8de34471.chunk.js"
+    "static/js/main.9454b48d.chunk.js"
   ]
 }
